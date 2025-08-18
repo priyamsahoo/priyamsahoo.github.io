@@ -27,8 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
+👋 Hi There! I’m Priyam, an MSCS (Research Track) student at the University of Illinois Urbana-Champaign, where I work with Dr. Talia Ringer in the PL/FM/SE group. My research interests lie at the intersection of programming languages, formal methods, and machine learning.
+
+Currently, I’m exploring **Specification Synthesis**, building techniques to translate informal developer intent into formal specifications inside **Interactive Theorem Provers.** My work focuses on building domain-adapted language models and designing iterative feedback-driven repair strategies, grounded in mathematical logic, proof theory, and neuro-symbolic methods. This includes developing math- and logic-oriented LLMs to investigate how structured reasoning can drive greater reliability and deeper alignment with formal mathematics.
+
+Before joining grad school, I worked at **Red Hat** on **Ansible Lightspeed**, an LLM-powered coding assistant for Ansible-Yaml code generation, now used by thousands of developers. I designed the **Ansible Language Server**, adapting language server protocol ideas with techniques from programming languages and static analysis to provide rich code-editor support, from syntax-aware diagnostics to semantic auto-completion, bringing accessibility to Ansible development in the open-source community.
+
+Broadly, I’m excited about code reasoning, programming languages, and the mathematics that underpins them. Always happy to talk about logic, verification, or how to make AI reason a little more like a mathematician — feel free to reach out if you’d like to chat.
+
+<!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
