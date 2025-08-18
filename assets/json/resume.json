@@ -25,35 +25,35 @@
       "position": "Research Assistant",
       "startDate": "2024-08-20",
       "endDate": "Present",
-      "summary": "Developing neural techniques to generate formal specifications from informal natural language descriptions by capturing user intent to specify the functional correctness of programs.",
+      "summary": "Developing neural techniques to generate formal specifications from informal natural language descriptions by capturing user intent to specify the functional correctness of programs."
     },
     {
       "name": "Team wisdom, Red Hat Inc.",
       "position": "Software Engineer (research)",
       "startDate": "2023-07-01",
       "endDate": "2024-07-31",
-      "summary": "Worked on developing Ansible Lightspeed Service with IBM WatsonX Code Assistance, a highly domain-specific LLM-based solution for natural language to ansible-YAML code generation.",
+      "summary": "Worked on developing Ansible Lightspeed Service with IBM WatsonX Code Assistance, a highly domain-specific LLM-based solution for natural language to ansible-YAML code generation."
     },
     {
       "name": "Ansible Engineering Team, Red Hat Inc.",
       "position": "Software Engineer (development)",
       "startDate": "2021-07-01",
       "endDate": "2024-06-30",
-      "summary": "Developed Ansible Language Server and its VSCode extension that offers decentralized language support for Ansible language with features such as syntax highlighting, diagnostics, auto-completion and hovering, functionalities in code editors.",
+      "summary": "Developed Ansible Language Server and its VSCode extension that offers decentralized language support for Ansible language with features such as syntax highlighting, diagnostics, auto-completion and hovering, functionalities in code editors."
     },
     {
       "name": "Artificial Intelligence and Robotics (AIR) Lab, VIT and NVIDIA",
       "position": "Undergraduate Researcher",
       "startDate": "2020-08-01",
       "endDate": "2020-12-31",
-      "summary": "Developed an Arduino-driven prosthetic arm with 2 degrees-of-freedom wrist and independent finger movements, equipped with a palm-mounted camera for detecting objects and executing autonomous gripping maneuvers.",
+      "summary": "Developed an Arduino-driven prosthetic arm with 2 degrees-of-freedom wrist and independent finger movements, equipped with a palm-mounted camera for detecting objects and executing autonomous gripping maneuvers."
     },
     {
       "name": "Reconfigurable Intelligent Systems Engineering (RISE) Lab, IIT Madras",
       "position": "Research Intern",
       "startDate": "2021-07-01",
       "endDate": "2024-06-30",
-      "summary": "Contributed to Open Malware Research by developing a real-world dataset for malware behavioral analysis considering network, OS, and hardware trails for detecting malware.",
+      "summary": "Contributed to Open Malware Research by developing a real-world dataset for malware behavioral analysis considering network, OS, and hardware trails for detecting malware."
     }    
   ],
   "education": [
