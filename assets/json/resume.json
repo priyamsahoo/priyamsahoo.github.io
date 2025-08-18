@@ -26,7 +26,6 @@
       "startDate": "2024-08-20",
       "endDate": "Present",
       "summary": "Developing neural techniques to generate formal specifications from informal natural language descriptions by capturing user intent to specify the functional correctness of programs.",
-      "highlights": ["LLM", "specification synthesis", "code synthesis", "domain-specific languages", "iteractive theorem provers", "formal methods", "programing languages", "software engineering"]
     },
     {
       "name": "Team wisdom, Red Hat Inc.",
@@ -34,7 +33,6 @@
       "startDate": "2023-07-01",
       "endDate": "2024-07-31",
       "summary": "Worked on developing Ansible Lightspeed Service with IBM WatsonX Code Assistance, a highly domain-specific LLM-based solution for natural language to ansible-YAML code generation.",
-      "highlights": ["LLM", "code synthesis", "domain-specific languages", "Ansible", "formal methods", "programing languages", "software engineering"]
     },
     {
       "name": "Ansible Engineering Team, Red Hat Inc.",
@@ -42,7 +40,6 @@
       "startDate": "2021-07-01",
       "endDate": "2024-06-30",
       "summary": "Developed Ansible Language Server and its VSCode extension that offers decentralized language support for Ansible language with features such as syntax highlighting, diagnostics, auto-completion and hovering, functionalities in code editors.",
-      "highlights": ["Ansible", "language server protocol", "vscode extension", "software engineering"]
     },
     {
       "name": "Artificial Intelligence and Robotics (AIR) Lab, VIT and NVIDIA",
@@ -50,7 +47,6 @@
       "startDate": "2020-08-01",
       "endDate": "2020-12-31",
       "summary": "Developed an Arduino-driven prosthetic arm with 2 degrees-of-freedom wrist and independent finger movements, equipped with a palm-mounted camera for detecting objects and executing autonomous gripping maneuvers.",
-      "highlights": ["robotics", "arduino", "YOLO", "GR-ConvNet", "computer vision", "johny-five", "machine learning", "convolutional neural network, leap motion"]
     },
     {
       "name": "Reconfigurable Intelligent Systems Engineering (RISE) Lab, IIT Madras",
@@ -58,7 +54,6 @@
       "startDate": "2021-07-01",
       "endDate": "2024-06-30",
       "summary": "Contributed to Open Malware Research by developing a real-world dataset for malware behavioral analysis considering network, OS, and hardware trails for detecting malware.",
-      "highlights": ["malware analysis", "labelled-data-as-a-service", "harware performance calls", "machine learning"]
     }    
   ],
   "education": [
@@ -71,7 +66,7 @@
       "startDate": "2024-08-15",
       "endDate": "Present",
       "score": "4.00 / 4.00",
-      "courses": ["Applied Machine Learning, ML for Software Engineering", "Formal Methods", "Advanced Information Retrieval"]
+      "courses": ["Courseworks: Applied Machine Learning, ML for Software Engineering, Formal Methods, Advanced Information Retrieval"]
     },
     {
       "institution": "Vellore Institure of Technology",
@@ -82,7 +77,7 @@
       "startDate": "2017-07-15",
       "endDate": "2021-05-15",
       "score": "9.37 / 10.00",
-      "courses": ["Data Structures, Design and Analysis of Algorithms, Numerical Methods, Linear Algebra, Game Theory, Operating Systems, Computer Networks, Databases, Object Oriented Programming"]
+      "courses": ["Courseworks: Data Structures, Design and Analysis of Algorithms, Numerical Methods, Linear Algebra, Game Theory, Operating Systems, Computer Networks, Databases, Object Oriented Programming"]
     }
   ],
   "awards": [
