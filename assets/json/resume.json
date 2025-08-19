@@ -137,6 +137,17 @@
       ]
     },
     {
+      "name": "Cloud and Infra",
+      "icon": "fa-solid fa-cubes",
+      "keywords": [
+        "AWS (EC2, S3, Lambda, RDS)",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD (GitHub Actions, Jenkins)"
+      ]
+    },
+    {
       "name": "Frameworks",
       "icon": "fa-solid  fa-desktop",
       "keywords": [
@@ -151,26 +162,17 @@
       ]
     },
     {
-      "name": "Cloud and Infra",
-      "icon": "fa-solid fa-cubes",
-      "keywords": [
-        "AWS (EC2, S3, Lambda, RDS)",
-        "Docker",
-        "Kubernetes",
-        "Terraform",
-        "CI/CD (GitHub Actions, Jenkins)"
-      ]
-    },
-    {
       "name": "AI and MLOps",
       "icon": "fa-solid fa-cogs",
       "keywords": [
-        "Python",
-        "C++",
-        "TypeScript",
-        "Java",
-        "Kotlin",
-        "Lean"
+        "Fine-Tuning",
+        "Retrieval-Augmented Generation (RAG)",
+        "LoRA",
+        "PEFT",
+        "Quantization",
+        "Reinforcement Learning",
+        "Neuromorphic AI",
+        "Agentic AI"
       ]
     }
   ],
