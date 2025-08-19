@@ -38,8 +38,8 @@ ninja.data = [{
             },},{id: "news-awarded-chancellor-s-gold-medal-2021-in-academics-for-highest-cgpa-in-the-computer-science-and-engineering-department-at-vellore-institute-of-technology-ap",
           title: 'Awarded Chancellor’s Gold Medal, 2021 in academics for highest CGPA in the Computer...',
           description: "",
-          section: "News",},{id: "news-started-my-second-chapter-as-a-fully-funded-ms-cs-student-at-uiuc",
-          title: 'Started my second chapter as a Fully Funded MS CS student at UIUC....',
+          section: "News",},{id: "news-started-my-graduate-degree-as-a-fully-funded-mscs-student-at-uiuc",
+          title: 'Started my graduate degree as a fully-funded MSCS student at UIUC.',
           description: "",
           section: "News",},{id: "news-presented-my-paper-on-ansible-lighspeed-at-the-39th-ieee-acm-international-conference-on-automated-software-engineering-ase-2024",
           title: 'Presented my paper on Ansible Lighspeed at the 39th IEEE/ACM International Conference on...',
@@ -95,6 +95,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%70%72%69%79%61%6D%73%61%68%6F%6F.%32%36@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/priyamsahoo", "_blank");
         },
       },{
         id: 'social-linkedin',
