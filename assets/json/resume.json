@@ -175,5 +175,27 @@
         "Agentic AI"
       ]
     }
+  ],
+  "references": [
+    {
+      "name": "Professor Talia Ringer",
+      "icon": "fa-solid fa-thumb-tack",
+      "reference": "Assistant Professor, UIUC"
+    },
+    {
+      "name": "Iftikhar Khan",
+      "icon": "fa-solid fa-thumb-tack",
+      "reference": "Director of Software Engineering, Red Hat"
+    },
+    {
+      "name": "Ganesh Nalawade",
+      "icon": "fa-solid fa-thumb-tack",
+      "reference": "Senior Principal Software Engineer, Red Hat"
+    },
+    {
+      "name": "Saurabh Pujar",
+      "icon": "fa-solid fa-thumb-tack",
+      "reference": "Senior Research Scientist, IBM Research AI"
+    }
   ]
 }
