@@ -21,6 +21,13 @@
   },
   "work": [
     {
+      "name": "CoreAI Division, Microsoft, WA, USA",
+      "position": "Student Researcher",
+      "startDate": "2026-01-05",
+      "endDate": "Present",
+      "summary": "Researching Next edit suggestions (NES) models for GitHub Copilot through custom training and evaluation."
+    },
+    {
       "name": "PL/FM/SE Group, University of Illinois Urbana Champaign",
       "position": "Research Assistant",
       "startDate": "2024-08-20",
