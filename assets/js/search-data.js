@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-presented-my-paper-on-ansible-lighspeed-at-the-39th-ieee-acm-international-conference-on-automated-software-engineering-ase-2024",
           title: 'Presented my paper on Ansible Lighspeed at the 39th IEEE/ACM International Conference on...',
           description: "",
+          section: "News",},{id: "news-started-working-as-a-student-researcher-at-microsoft-on-next-edit-suggestions-nes-models-for-github-copilot",
+          title: 'Started working as a Student Researcher at Microsoft on next edit suggestions (NES)...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
