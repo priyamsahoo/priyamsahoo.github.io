@@ -109,6 +109,13 @@
   ],
   "publications": [
     {
+      "name": "DialDefer: A Framework for Detecting and Mitigating LLM Dialogic Deference",
+      "publisher": "ACL 2026 Main Conference (Accepted)",
+      "releaseDate": "2026-01-01",
+      "url": "https://arxiv.org/abs/2601.10896",
+      "summary": "Accepted to the ACL 2026 Main Conference. We introduce DialDefer, a framework for detecting and mitigating dialogic deference in LLM-based conversations."
+    },
+    {
       "name": "Ansible Lightspeed: A Code Generation Service for IT Automation",
       "publisher": "39th IEEE/ACM ASE 2024",
       "releaseDate": "2024-10-27",
